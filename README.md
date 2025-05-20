@@ -16,9 +16,9 @@ This project integrates **GradCAM (Gradient-weighted Class Activation Mapping)**
 
 ##  Related Resources
 
-- 📘 [My technical walkthrough on YOLO training and detection (iT 邦幫忙)](https://ithelp.ithome.com.tw/users/20120310/ironman/6372)
-- 🧠 One-stage detectors: YOLO, SSD, RetinaNet
-- 💬 [How to train YOLO models (step-by-step)](https://ithelp.ithome.com.tw/users/20120310/ironman/6372)
+-  [My technical walkthrough on YOLO training and detection (iT 邦幫忙)](https://ithelp.ithome.com.tw/users/20120310/ironman/6372)
+-  One-stage detectors: YOLO, SSD, RetinaNet
+-  [How to train YOLO models (step-by-step)](https://ithelp.ithome.com.tw/users/20120310/ironman/6372)
 
 <img src="./readme_img/it30.png" width="600"/>
 
